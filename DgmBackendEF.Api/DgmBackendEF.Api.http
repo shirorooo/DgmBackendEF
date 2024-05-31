@@ -1,0 +1,6 @@
+@DgmBackendEF.Api_HostAddress = http://localhost:5042
+
+GET {{DgmBackendEF.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
